@@ -11,7 +11,8 @@ Visuals
 [Insert Visuals]
 
 Installation
-
+1. Install the glTFRuntime plugin
+2. Add BP_VolCapPlayer to your project
 
 Support 
 deucalionpapadopoulos@gmail.com
