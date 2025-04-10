@@ -13,6 +13,7 @@ Visuals
 Installation
 1. Install the glTFRuntime plugin
 2. Add BP_VolCapPlayer to your project
+3. If your materials are not rendered properly go to Project Settings/Packaging, and expand the main section for accessing advanced options, add the glTFRuntime Content directory to 'Additional Asset Directories to Cook'.
 
 Support 
 deucalionpapadopoulos@gmail.com
