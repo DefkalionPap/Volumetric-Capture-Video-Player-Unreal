@@ -11,8 +11,8 @@ Visuals
 [Insert Visuals]
 
 Installation
-1. Disable Texture Streaming
-2. Download the plugin's folder and drag it inyo your project's Plugin folder
+1. Disable Texture Streaming from the Project Settings
+2. Download the plugin's folder and drag it into your project's Plugin folder
 3. Add BP_VolCapPlayer to your project
 
 Support 
