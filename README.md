@@ -1,33 +1,33 @@
 # Volumetric-Capture-Video-Importer-Unreal
 Volumetric Capture Video Importer for the Unreal Engine 5
 
-Description 
+**Description** <br>
 Allows designers, developers, and filmmakers to import glTF volumetric capture videos in their projects
 
-Badges
-[Insert Badges]
-
-Visuals
-[Insert Visuals]
-
-Installation
-1. Disable Texture Streaming from the Project Settings
-2. Download the plugin's folder and drag it into your project's Plugin folder
+**Installation** <br>
+1. Disable Texture Streaming from the Project Settings <br>
+2. Download the plugin's folder and drag it into your project's Plugin folder <br>
 3. Add BP_VolCapPlayer to your project
 
-Support 
+**Support** <br>
 deucalionpapadopoulos@gmail.com
 
-Contributing 
-Not accepting contributions
+**Roadmap** <br>
+Add URL Support <br>
+Add advanced features (change playback speed, pause, reverse etc.)
 
-Authors and acknowledgment
-Dimitrios Zarpalas, [Insert Title] 
-Dimitrios Pattas, [Insert Title] 
-Antonios Karakottas, [Insert Title] 
-. . . 
-Defkalion Nikolaos Papadopoulos, Intern The Center for Research & Technology, Hellas
+**Contributing** <br>
+Accepting contributions
 
-License [Insert License]
-Project status 
-Under development
+**Authors and acknowledgment** <br>
+Dimitrios Zarpalas, Senior Researcher <br>
+Antonios Karakottas, PhD Candidate <br>
+Dimitrios Pattas, Research Associate <br>
+Defkalion Nikolaos Papadopoulos, Intern <br>
+The Center for Research & Technology, Hellas
+
+**License** <br>
+MIT License
+
+**Project status** <br>
+Released
