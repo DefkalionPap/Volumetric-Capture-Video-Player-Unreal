@@ -12,8 +12,8 @@ Visuals
 
 Installation
 1. Disable Texture Streaming
-2. Add BP_VolCapPlayer to your project
-3. If your materials are not rendered properly go to Project Settings/Packaging, and expand the main section for accessing advanced options, add the glTFRuntime Content directory to 'Additional Asset Directories to Cook'.
+2. Download the plugin's folder and drag it inyo your project's Plugin folder
+3. Add BP_VolCapPlayer to your project
 
 Support 
 deucalionpapadopoulos@gmail.com
