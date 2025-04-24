@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VolumetricCapturePlayer",
+	"Description": " Allows designers, developers, and filmmakers to play glTF volumetric capture videos in their Unreal Engine projects",
+	"Category": "Other",
+	"CreatedBy": "Centre for Research and Technology Hellas",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
