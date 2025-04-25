@@ -1,5 +1,4 @@
 # Volumetric-Capture-Video-Importer-Unreal
-Volumetric Capture Video Importer for the Unreal Engine 5
 
 **Description** <br>
 Allows designers, developers, and filmmakers to import glTF volumetric capture videos in their projects
